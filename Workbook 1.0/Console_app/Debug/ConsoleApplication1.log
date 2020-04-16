@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+E:\c++ and c files\project\Workbook 4.0\ConsoleApplication1\ConsoleApplication1\.h\admin.h(18,20): warning C4309: 'argument': truncation of constant value
+E:\c++ and c files\project\Workbook 4.0\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(275,20): warning C4834: discarding return value of function with 'nodiscard' attribute
+E:\c++ and c files\project\Workbook 4.0\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(279,20): warning C4834: discarding return value of function with 'nodiscard' attribute
+  ConsoleApplication1.vcxproj -> E:\c++ and c files\project\Workbook 4.0\ConsoleApplication1\Debug\ConsoleApplication1.exe
