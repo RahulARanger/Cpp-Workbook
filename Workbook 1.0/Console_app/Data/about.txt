@@ -1,0 +1,30 @@
+ :)                                                                             ABOUT THE PROGRAM:
+                                                                                ==================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   This Program is created to help the readers to revise or go through the basics of C++.This workbook can also prove be the good project in C++.
+This Workbook is different from the C projects because it not only implements the functional programming but also Object Oriented Programming.
+
+Coming on to the matter inside the workbook of c++ it covers the 6 chapters which is simply named as introduction,pointers,arrays,classes,templates,exception and so one
+
+This workbook also comes with the IDE which helps the users to enter the .cpp code to compile and run them and also helps the user to create the .doc/.txt files and
+view them whenever it is created...
+
+This workbook is black-white as i have not used graphics.h to make this workbook more easier to understand...
+
+This workbook also comes with the admin mode in which to use it... we need a key ... for that contact the author for the key to access that admin panel...
+Admin panel has some interesting  features like editing the lessons attached to the book.and so one....
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                                                                ABOUT THE AUTHOR:
+                                                                                =================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Name                : TANGELLAPALLI SAI HANUMA RAHUL
+
+Class and Section   : K19UW
+
+Roll number         : 59
+
+Registration Number : 11901665
+
+D.O.B               : 14-11-2001
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

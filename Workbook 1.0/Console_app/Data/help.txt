@@ -1,0 +1,38 @@
+
+                                                                            WELCOME TO THE HELP BOX
+                                                                            ~~~~~~~~~~~~~~~~~~~~~~~~
+
+The project has a lot of options to Users...So it is recommended for the users to use this box as whenever needed...
+
+Here are some commands short cuts:
+========================================================================================================================================================================
+General Commands:
+~~~~~~~~~~~~~~~~~
+
+General commands are the commands that can be written in any box...
+
+1. help - opens up this box
+2. start - starts the whole program again to reach the start box
+3. end/exit - closes the book...directs you to end box...
+4. table - helps you to reach the contents table...
+========================================================================================================================================================================
+General Note:
+~~~~~~~~~~~~~
+
+1.After opening the help box u will get back to that previous box from where u left,after leaving the help box...
+
+2. there are some general instructions for admin and ide when opened so no need to worry...
+
+3. After opening the file u will reach the nearest table/sub-table  box
+========================================================================================================================================================================
+File:
+~~~~~
+
+After opening the file/or the topic in the table you will find the command box at last...
+Kindly refer this available commands.
+1. help - opens up this box
+2. start - starts the whole program again to reach the start box
+3. end/exit - closes the book...directs you to end box...
+4. table - helps you to reach the contents table...
+5. back - to reach the nearest sub-table.
+=======================================================================================================================================================================

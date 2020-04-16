@@ -1,0 +1,68 @@
+21:40 14-03-2020
+1: Blue
+2: Green
+3: Cyan
+4: Red
+5: Purple
+6: Yellow (Dark)
+7: Default white
+8: Gray/Grey
+9: Bright blue
+10: Brigth green
+11: Bright cyan
+12: Bright red
+13: Pink/Magenta
+14: Yellow
+15: Bright white
+
+#include<iostream>
+#include<conio.h>
+#include<windows.h>
+using namespace std;
+void there (int x, int y)
+    {
+         COORD coordinates;     // coordinates is declared as COORD
+         coordinates.X = x;     // defining x-axis
+         coordinates.Y = y;     //defining  y-axis
+        SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),coordinates);
+    }
+
+int main()
+{int counte=0;
+    char ch;
+    int r;
+    cout<<":) Start "<<endl;
+    cout<<"   Help "<<endl;
+    cout<<"   About "<<endl;
+    cout<<"   Exit "<<endl;
+
+    while(1)
+{
+
+    ch=getch();
+    if(ch==72)
+    {
+        if(counte<=0)continue;
+        there(0,counte);
+        cout<<"  ";
+            there(0,counte-1);
+            cout<<":)";
+            counte--;
+    }
+    else if(ch==80)
+    {
+        if(counte>=3)continue;
+          there(0,counte);
+cout<<"  ";
+        there(0,counte+1);
+        cout<<":)";
+        counte++;
+
+    }
+    else if(ch=='\r')
+    {
+     //  cout<<counte+1;
+    }
+}
+return 5;
+}
